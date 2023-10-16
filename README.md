@@ -3,7 +3,7 @@
 1. Setup the server 
 	- Proxy server with public IP (server_ip) (If the reciever is in the same network skip this)
 	- Download and extract a standalone binary from the https://github.com/bluenviron/mediamtx/releases
-	- Start the server: ./mediamtx
+	- Start the server: ```./mediamtx```
 
 2. Make sure you have opencv with gstreamer built. otherwise
 ```
